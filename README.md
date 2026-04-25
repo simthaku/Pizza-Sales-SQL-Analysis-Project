@@ -1,11 +1,8 @@
 # 🍕 Pizza Sales SQL Analysis
 ## 📘 Project Overview
 
-This project focuses on analyzing pizza sales data using SQL to extract meaningful business insights.
+This project focuses on analyzing pizza sales data using SQL to extract meaningful business insights.The objective is to understand customer behavior, revenue trends, and product performance by solving real-world business questions using SQL.
 
-The objective is to understand customer behavior, revenue trends, and product performance by solving real-world business questions using SQL.
-
----
 
 ## 📂 Project Workflow
 
@@ -18,7 +15,7 @@ The dataset consists of multiple relational tables:
 
 These tables are connected using keys to simulate a real-world sales system.
 
----
+
 
 ### 2️⃣ Data Exploration
 Performed SQL queries to understand:
@@ -27,7 +24,7 @@ Performed SQL queries to understand:
 - Most popular pizza sizes
 - Top-selling pizzas
 
----
+
 
 ### 3️⃣ Data Transformation (JOINs)
 Used JOIN operations to combine tables:
@@ -35,7 +32,7 @@ Used JOIN operations to combine tables:
 - Revenue per pizza
 - Quantity analysis
 
----
+
 
 ### 4️⃣ Aggregation & Metrics
 Applied:
@@ -48,7 +45,7 @@ To calculate:
 - Orders per day
 - Average pizzas ordered
 
----
+
 
 ### 5️⃣ Advanced SQL Analysis
 Used:
@@ -61,7 +58,7 @@ To solve:
 - Top 3 pizzas per category
 - Revenue contribution %
 
----
+
 
 ## ❓ Business Questions Solved
 
@@ -72,7 +69,7 @@ To solve:
 - Find most common pizza size
 - Top 5 most ordered pizzas
 
----
+
 
 ### 🔹 Intermediate
 - Quantity per category
@@ -81,14 +78,14 @@ To solve:
 - Average pizzas per day
 - Top 3 pizzas by revenue
 
----
+
 
 ### 🔹 Advanced
 - Percentage revenue contribution
 - Cumulative revenue over time
 - Top 3 pizzas per category (CTE & Subquery)
 
----
+
 
 ## 📊 Key Insights
 
@@ -98,7 +95,7 @@ To solve:
 - Revenue shows consistent cumulative growth
 - Customer behavior patterns differ across time
 
----
+
 
 ## 🛠️ Tools Used
 
@@ -106,7 +103,7 @@ To solve:
 - Excel (Dataset)
 - GitHub
 
----
+
 
 ## 🧠 Skills Demonstrated
 
@@ -118,7 +115,7 @@ To solve:
 - CTE (Common Table Expressions)
 - Business Analysis using data
 
----
+
 
 ## 📊 Project Output
 
@@ -128,13 +125,13 @@ This repository includes:
 - Screenshots of outputs
 - Structured problem-solving approach
 
----
+
 
 ## 🏁 Conclusion
 
 This project demonstrates my ability to analyze structured datasets using SQL and derive meaningful business insights.
 
----
+
 
 ## 👤 Author
 
