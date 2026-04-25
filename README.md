@@ -1,17 +1,5 @@
 # 🍕 Pizza Sales SQL Analysis
 
-## 📑 Table of Contents
-- [Project Overview](#-project-overview)
-- [Project Workflow](#-project-workflow)
-- [Business Questions Solved](#-business-questions-solved)
-- [Key Insights](#-key-inssights)
-- [Tools Used](#-tools-used)
-- [Skills Demonstrated](#-skills-demonstrated)
-- [Project Output](#-project-output)
-- [Conclusion](#-conclusion)
-
----
-
 ## 📘 Project Overview
 
 This project focuses on analyzing pizza sales data using SQL to extract meaningful business insights.
