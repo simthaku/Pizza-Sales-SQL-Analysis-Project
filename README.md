@@ -68,6 +68,7 @@ CTEs → structured multi-step queries
 Ranking Functions → top 3 pizzas per category
 
 
+
 ❓ Business Questions Solved
 
 According to the project file , key questions include:
