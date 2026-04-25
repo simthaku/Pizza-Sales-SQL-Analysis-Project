@@ -13,7 +13,9 @@ The dataset consists of multiple relational tables:
 orders → order-level data (date, time)
 
 order_details → quantity of pizzas per order
+
 pizzas → pizza size and price
+
 pizza_types → pizza category and name
 
 These tables are connected using keys to simulate a real-world sales database.
