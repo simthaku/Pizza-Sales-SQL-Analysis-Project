@@ -103,8 +103,8 @@ Common Table Expressions (CTE)
 Business problem solving using data
 
 📊 Project Output
-The project includes:
 
+The project includes:
 SQL query file with all solutions
 Screenshots of query outputs
 Structured problem-solving approach
