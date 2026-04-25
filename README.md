@@ -79,6 +79,7 @@ Cumulative revenue over time
 Top 3 pizzas per category (using Subquery & CTE)
 
 📊 Key Insights
+
 Peak ordering hours identified based on time analysis
 Certain pizza categories contribute significantly to total revenue
 Few pizza types dominate overall sales performance
@@ -86,11 +87,13 @@ Revenue trend shows cumulative growth over time
 Customer ordering patterns vary across time and category
 
 🛠️ Tools & Technologies
+
 SQL (MySQL)
 Excel (dataset handling)
 GitHub (project hosting)
 
 🧠 Skills Demonstrated
+
 SQL Joins (INNER JOIN)
 Aggregations (SUM, COUNT, AVG)
 GROUP BY logic
@@ -100,7 +103,6 @@ Common Table Expressions (CTE)
 Business problem solving using data
 
 📊 Project Output
-
 The project includes:
 
 SQL query file with all solutions
