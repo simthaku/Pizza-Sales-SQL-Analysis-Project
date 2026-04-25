@@ -11,6 +11,7 @@ This project focuses on analyzing a real-world pizza sales dataset using SQL to 
 The dataset consists of multiple relational tables:
 
 orders → order-level data (date, time)
+
 order_details → quantity of pizzas per order
 pizzas → pizza size and price
 pizza_types → pizza category and name
