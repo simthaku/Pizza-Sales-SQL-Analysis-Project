@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales SQL Analysis
-# 📘 Project Overview
+## 📘 Project Overview
 
 This project focuses on analyzing pizza sales data using SQL to extract meaningful business insights.The objective is to understand customer behavior, revenue trends, and product performance by solving real-world business questions using SQL.
 
